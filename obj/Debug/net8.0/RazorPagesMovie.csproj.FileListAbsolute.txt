@@ -259,3 +259,4 @@ D:\VSCODE\projekty\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\Syst
 D:\VSCODE\projekty\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\VSCODE\projekty\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.AssemblyReference.cache
 D:\VSCODE\projekty\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.csproj.CopyComplete
+D:\VSCODE\projekty\RazorPagesMovie\obj\Debug\net8.0\RazorPagesMovie.sourcelink.json
